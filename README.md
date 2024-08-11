@@ -1,6 +1,6 @@
 ## Hi there 👋
-##I am Inbavel S
-##AI Learning Student
+## I am Inbavel S 🤔
+## AI Learning Student ⚡
 
 <!--
 **inbavel11/inbavel11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
