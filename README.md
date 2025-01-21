@@ -50,4 +50,26 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=inbavel11&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🏆 GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?username=inbavel11&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+## 📈 Activity Graph:
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=inbavel11&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🔗 Fun Widgets:
+- [![Spotify](https://novatorem-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/spotify)
+
+## ✍️ Random Dev Quote:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=inbavel11&icon=2&color=5)](https://visitcount.itsvg.in)
+
+---
