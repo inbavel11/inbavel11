@@ -57,14 +57,6 @@
 
 ---
 
-## 📈 Activity Graph:
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=inbavel11&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🔗 Fun Widgets:
-- [![Spotify](https://novatorem-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/spotify)
-
 ## ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
