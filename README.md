@@ -2,39 +2,6 @@
   <h1 style="color:#FF4500;">🌟 About Me 🌟</h1>
 </div>
 
----
-
-### 🎨 **I’m currently working on:**
-- **Innovative Tamil speech-to-text and text-to-speech Android apps** with stunning UIs.  
-- AI projects like **Tamil Story Maker** and **disaster damage assessment** using deep learning.  
-
----
-
-### 🤝 **Looking to collaborate on:**
-- **Creative Android apps** powered by **machine learning and AI models.**  
-- Real-world projects that combine **technology** with **impactful solutions.**
-
----
-
-### 🌱 **Currently learning:**
-- Advanced **deep learning techniques** and **AI-powered mobile applications.**  
-
----
-
-### 💬 **Ask me about:**
-- **AI-based Android app development** for Tamil language solutions.  
-- Integrating TensorFlow Lite models directly into Android.  
-
----
-
-### ⚡ **Fun Fact:**  
-✨ I turn **technology into art** by innovating in the **Tamil tech space!** ✨  
-
----
-
-<div align="center">
-  <h3 style="color:#9400D3;">✨ "Bringing ideas to life with AI and creativity." ✨</h3>
-</div>
 
 
 ## 🌐 Socials:
