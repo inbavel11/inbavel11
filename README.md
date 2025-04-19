@@ -24,26 +24,8 @@ As a student at Rajalakshmi Engineering College, I am passionate about computer 
   <img src="https://img.icons8.com/ios-filled/100/FFFFFF/android.png" title="Android Studio" />
   <img src="https://img.icons8.com/ios-filled/100/FF5C93/github.png" title="GitHub" />
 </p>
-## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td><b>🚗 YOLOv8 Vehicle Detection</b></td>
-    <td><b>🧠 Real-Time Cricket Commentary AI</b></td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/inbavel11/yolo-vehicle-detection">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=inbavel11&repo=yolo-vehicle-detection&theme=radical" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/inbavel11/cricket-commentary-ai">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=inbavel11&repo=cricket-commentary-ai&theme=radical" />
-      </a>
-    </td>
-  </tr>
-</table>
+
 ## 📊 GitHub Stats & Analytics
 
 <p align="center">
@@ -71,22 +53,12 @@ As a student at Rajalakshmi Engineering College, I am passionate about computer 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=inbavel11&show_icons=true&theme=tokyonight&title_color=FF61D2&text_color=F3F3F3&icon_color=FEE440&border_radius=20" width="80%" />
 </p>
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=inbavel11&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
-<p align="center"> <img src="https://media.giphy.com/media/2t9sDPrlvFpdK/giphy.gif" width="250"> <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="250"> <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="250"> </p>
-<p align="center"> <img src="https://github.com/inbavel11/inbavel11/assets/nn-flow.gif" alt="Neural Background" width="800"/> </p>
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF61D2,100:FE9090&height=200&section=footer&text=Made%20with%20AI%20by%20INBAVEL%20S&fontSize=24&fontColor=ffffff" /> </p>
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=footer&text=Welcome+to+Inbavel's+Dark+Neural+Lab&fontSize=25&fontColor=ffffff" />
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFDEE9,100:B5FFFC&height=200&section=footer&text=Welcome+to+Inbavel's+Bright+AI+Hub&fontSize=25&fontColor=000000" />
   </picture>
 </p>
-## ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
 
 [![](https://visitcount.itsvg.in/api?id=inbavel11&icon=2&color=5)](https://visitcount.itsvg.in)
