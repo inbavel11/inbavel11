@@ -1,6 +1,10 @@
-<div align="center">
-  <h1 style="color:#FF4500;">🌟 About Me 🌟</h1>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=4000&pause=1000&color=27F7EF&vCenter=true&multiline=true&width=800&height=100&lines=INBAVEL+S+-+AI+%7C+ML+%7C+CV+%7C+DL+%7C+TAMIL+AI+DEV;Welcome+to+My+Futuristic+GitHub+Universe" alt="Typing Banner" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="1000" />
+</p>
 
 ## 🧑‍🎓 About Me:
 As a student at Rajalakshmi Engineering College, I am passionate about computer science-based developments, particularly in the field of Artificial Intelligence and Machine Learning (AIML). My B.Tech in AIML is enhancing my skills and preparing me for a promising future. While I hadn't initially anticipated studying engineering, I now embrace the unpredictability of the future with optimism and belief in the opportunities it may bring.
@@ -8,23 +12,78 @@ As a student at Rajalakshmi Engineering College, I am passionate about computer 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/inbavel-s) 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+## 🧠 My ToolKit (AI Edition)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=inbavel11&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=inbavel11&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=inbavel11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://img.icons8.com/ios-filled/100/ffffff/artificial-intelligence.png" title="AI" />
+  <img src="https://img.icons8.com/ios-filled/100/4CAF50/machine-learning.png" title="Machine Learning" />
+  <img src="https://img.icons8.com/ios-filled/100/FA5252/neural.png" title="Neural Networks" />
+  <img src="https://img.icons8.com/ios-filled/100/00BFFF/deep-learning.png" title="Deep Learning" />
+  <img src="https://img.icons8.com/ios-filled/100/FFD700/python.png" title="Python" />
+  <img src="https://img.icons8.com/ios-filled/100/7F52FF/kotlin.png" title="Kotlin" />
+  <img src="https://img.icons8.com/ios-filled/100/FFFFFF/android.png" title="Android Studio" />
+  <img src="https://img.icons8.com/ios-filled/100/FF5C93/github.png" title="GitHub" />
+</p>
+## 🚀 Featured Projects
 
-[![](https://visitcount.itsvg.in/api?id=inbavel11&icon=0&color=0)](https://visitcount.itsvg.in)
+<table>
+  <tr>
+    <td><b>🚗 YOLOv8 Vehicle Detection</b></td>
+    <td><b>🧠 Real-Time Cricket Commentary AI</b></td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/inbavel11/yolo-vehicle-detection">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=inbavel11&repo=yolo-vehicle-detection&theme=radical" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/inbavel11/cricket-commentary-ai">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=inbavel11&repo=cricket-commentary-ai&theme=radical" />
+      </a>
+    </td>
+  </tr>
+</table>
+## 📊 GitHub Stats & Analytics
 
----
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=inbavel11&show_icons=true&theme=radical&border_radius=15&count_private=true&hide=prs&custom_title=INBAVEL%20S%20GitHub%20Stats" width="48%" />
+  
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inbavel11&layout=compact&theme=radical&border_radius=15" width="48%" />
+</p>
 
+<p align="center">
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inbavel11&theme=radical&hide_border=true&custom_title=🔥%20Streaks%20by%20INBAVEL%20S" width="90%" />
+</p>
+
+<p align="center">
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=inbavel11&theme=algolia&row=2&column=4&margin-w=10&margin-h=10" />
+</p>
+
+<p align="center">
+  <!-- GitHub Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=inbavel11&theme=react-dark&area=true&hide_border=true&radius=12" width="100%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=inbavel11&show_icons=true&theme=tokyonight&title_color=FF61D2&text_color=F3F3F3&icon_color=FEE440&border_radius=20" width="80%" />
+</p>
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=inbavel11&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-
+<p align="center"> <img src="https://media.giphy.com/media/2t9sDPrlvFpdK/giphy.gif" width="250"> <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="250"> <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="250"> </p>
+<p align="center"> <img src="https://github.com/inbavel11/inbavel11/assets/nn-flow.gif" alt="Neural Background" width="800"/> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF61D2,100:FE9090&height=200&section=footer&text=Made%20with%20AI%20by%20INBAVEL%20S&fontSize=24&fontColor=ffffff" /> </p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=footer&text=Welcome+to+Inbavel's+Dark+Neural+Lab&fontSize=25&fontColor=ffffff" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFDEE9,100:B5FFFC&height=200&section=footer&text=Welcome+to+Inbavel's+Bright+AI+Hub&fontSize=25&fontColor=000000" />
+  </picture>
+</p>
 ## ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
