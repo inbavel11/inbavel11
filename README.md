@@ -10,8 +10,20 @@
 As a student at Rajalakshmi Engineering College, I am passionate about computer science-based developments, particularly in the field of Artificial Intelligence and Machine Learning (AIML). My B.Tech in AIML is enhancing my skills and preparing me for a promising future. While I hadn't initially anticipated studying engineering, I now embrace the unpredictability of the future with optimism and belief in the opportunities it may bring.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/inbavel-s) 
-
+<p align="center">
+  <a href="https://linkedin.com/in/inbavel-s" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sinbavel11@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D44638?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/inbavel11" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://wa.me/919345967287" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</p>
 ## 🧠 My ToolKit (AI Edition)
 
 <p align="center">
