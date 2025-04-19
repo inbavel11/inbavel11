@@ -17,8 +17,8 @@ As a student at Rajalakshmi Engineering College, I am passionate about computer 
 <p align="center">
   <img src="https://img.icons8.com/ios-filled/100/ffffff/artificial-intelligence.png" title="AI" />
   <img src="https://img.icons8.com/ios-filled/100/4CAF50/machine-learning.png" title="Machine Learning" />
-  <img src="https://img.icons8.com/ios-filled/100/FA5252/neural.png" title="Neural Networks" />
-  <img src="https://img.icons8.com/ios-filled/100/00BFFF/deep-learning.png" title="Deep Learning" />
+  <img src="https://img.icons8.com/color/96/000000/tensorflow.png" />
+  <img src="https://img.icons8.com/color/96/000000/pytorch.png" />
   <img src="https://img.icons8.com/ios-filled/100/FFD700/python.png" title="Python" />
   <img src="https://img.icons8.com/ios-filled/100/7F52FF/kotlin.png" title="Kotlin" />
   <img src="https://img.icons8.com/ios-filled/100/FFFFFF/android.png" title="Android Studio" />
